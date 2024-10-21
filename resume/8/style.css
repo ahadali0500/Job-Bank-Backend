@@ -1,0 +1,146 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        body {
+            font-family: "Poppins";
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            box-sizing:border-box;
+        }
+        p{
+            font-size: 0.9em;
+        }
+      .download {
+    position: fixed;
+    bottom: 40px;
+    right: 25px;
+    cursor: pointer;
+    background-color: #003366;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+        }
+
+        .container {
+            width: 60vw;
+            margin: 0 auto;
+            display:flex;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        .left-column, .right-column {
+            display: inline-block;
+            vertical-align: top;
+            padding: 10px; /* Reduced padding */
+        }
+        .left-column {
+            float: left;
+            width: 35%;
+            background-color: #23374d;
+            color: white;
+        }
+        .right-column {
+            width: 65%; /* Adjusted width to fit content better */
+            padding: 20px 20px 0px 20px; /* Reduced padding */
+            text-align: justify
+
+        }
+        .profile-picture {
+            text-align: center;
+            margin-bottom: 10px; /* Reduced margin */
+        }
+        .profile-picture img {
+            width: 100px; /* Reduced size */
+            height: 100px; /* Reduced size */
+            border-radius: 50%;
+            border: 3px solid white;
+        }
+       
+        .section-title {
+            color: #e74c3c;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 5px;
+            margin-bottom: 5px; /* Reduced margin */
+            font-size: 1em; /* Reduced font size */
+        }
+        .skills ul, .languages ul, .interests ul {
+            list-style: none;
+            padding: 0;
+        }
+        .skills ul li, .languages ul li, .interests ul li {
+            background-color: #34495e;
+            color: white;
+            padding: 5px;
+            margin-bottom: 5px;
+            border-radius: 4px;
+            font-size: 0.9em; /* Reduced font size */
+        }
+        .contact-info a {
+            color: #3498db;
+            text-decoration: none;
+            font-size: 0.9em; /* Reduced font size */
+        }
+        .contact-info p, .skills p, .education p, .languages p, .interests p {
+            margin: 5px 0;
+            font-size: 0.9em; /* Reduced font size */
+        }
+        .work-experience ul, .conferences-courses ul {
+            list-style: none;
+            padding: 0;
+        }
+        .work-experience ul li, .conferences-courses ul li {
+            margin-bottom: 5px;
+        }
+        .work-experience .job, .conferences-courses .course {
+            margin-bottom: 10px; /* Reduced margin */
+            font-size: 0.9em; /* Reduced font size */
+        }
+       
+        button:hover {
+            background-color: #2980b9;
+        }
+        @media (max-width: 992px) {
+            .container {
+                width: 100%
+            }
+
+            .section-title {
+            font-size: 10px; /* Reduced font size */
+
+            }
+            .skills ul li, .languages ul li, .interests ul li {
+                font-size: 10px; /* Reduced font size */
+            }
+            .contact-info a {
+                font-size: 10px; /* Reduced font size */
+            }
+            .contact-info p, .skills p, .education p, .languages p, .interests p {
+                margin: 5px 0;
+                font-size: 10px; /* Reduced font size */
+            }
+            .work-experience ul, .conferences-courses ul {
+                list-style: none;
+                padding: 0;
+            }
+            .work-experience ul li, .conferences-courses ul li {
+                margin-bottom: 5px;
+                font-size:10px;
+            }
+            .work-experience .job, .conferences-courses .course {
+                margin-bottom: 10px; /* Reduced margin */
+                font-size: 10px; /* Reduced font size */
+            }
+            p{
+                font-size:10px;
+            }
+            .title{
+                font-size:16px;
+            }
+            .pos{
+                font-size:12px;
+            }
+        }
+

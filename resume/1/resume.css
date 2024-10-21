@@ -1,0 +1,449 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins";
+  box-sizing: border-box;
+  background-color: #ececec;
+}
+.container {
+  width: 60vw;
+  display: flex;
+  height: auto;
+  margin: auto;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px 20px rgba(0, 0, 0, 0.057);
+}
+
+.container .left {
+  width: 35%;
+  float: left;
+  border-right: 1px solid black;
+  background-color: #1d3461;
+  color: #ffffff;
+  padding: 25px 10px 0px 10px;
+}
+.container .left .profile-img {
+  width: 142px;
+  height: 142px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 50%;
+  margin: auto;
+}
+.container .left .profile-img img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background-position: center;
+  background-size: contain;
+}
+.container .left .contact-info {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+}
+.container .left .contact-info h3 {
+  border-bottom: 1.5px solid white;
+  text-align: start;
+  padding: 5px 0px;
+  margin-top: 20px;
+  letter-spacing: 1px;
+}
+.container .left .contact-info ul {
+  margin-top: 15px;
+}
+.container .left .contact-info ul li {
+  list-style: none;
+  font-size: 13px;
+  padding: 7px 0px;
+}
+.container .left .contact-info ul li img {
+  width: 15px;
+  padding-right: 10px;
+  float: left;
+}
+.container .left .contact-info p {
+  font-weight: 600;
+  font-size: 13px;
+  margin-top: 15px;
+  margin-left: 2px;
+}
+.container .left .contact-info .ul {
+  margin-top: 5px;
+}
+.container .left .contact-info .ul .li {
+  padding: 4px;
+  list-style: disc;
+  margin-left: 15px;
+}
+.container .left .contact-info .ul .li2 {
+  padding: 3px 0px;
+}
+
+.container .right {
+  width: 65%;
+  float: left;
+  padding-right: 30px;
+  background-color: #ffffff;
+}
+.container .right .profile-title {
+  width: fit-content;
+  margin-top: 35px;
+  margin-left: 35px;
+}
+.container .right h1 {
+  font-weight: 500;
+  color: #1d3461;
+  font-size: 33px;
+}
+.container .right .profile-title p {
+  font-size: 20px;
+}
+.container .right .profile-title .line {
+  width: 65px;
+  height: 3px;
+  margin-top: 3px;
+  background-color: #1d3461;
+}
+
+.container .right .profile-content {
+  width: 97%;
+  padding: 0px 20px;
+  margin: auto;
+  margin-top: 70px;
+  margin-left: 10px;
+}
+.container .right .profile-content h3 {
+  color: #1d3461;
+  border-bottom: 1.5px solid #1d3461;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.container .right .profile-content p {
+  font-size: 13px;
+  text-align: justify;
+  padding-top: 10px;
+}
+.container .right .profile-content .heading {
+  width: 98%;
+  margin: auto;
+}
+
+.container .right .profile-content .heading ul {
+  width: 96%;
+  margin: auto;
+  float: left;
+  margin-left: 25px;
+  padding: 5px 0px;
+}
+.container .right .profile-content .heading ul li {
+  font-size: 12px;
+  text-align: justify;
+  padding: 2px 0px;
+}
+
+.container .right .profile-info {
+  width: 97%;
+  float: left;
+  margin: auto;
+  margin-left: 10px;
+  padding: 0px 20px;
+  text-align: justify;
+}
+
+.container .right .profile-info h3 {
+  color: #1d3461;
+  border-bottom: 1.5px solid #1d3461;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.container .right .profile-info .info {
+  width: 40%;
+  margin-top: 20px;
+  float: left;
+  margin-left: 10px;
+}
+.container .right .profile-info .info h5 {
+  font-weight: 500;
+  font-size: 17px;
+  padding-bottom: 5px;
+}
+.container .right .profile-info .info p {
+  font-size: 14px;
+  font-weight: 300;
+}
+.container .right .profile-info .info span {
+  font-size: 11px;
+}
+#info2 {
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 990px) {
+  .container {
+    width: 80vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+  .container .left .contact-info {
+    width: 96%;
+  }
+  .container .left .contact-info h3 {
+    font-size: medium;
+  }
+
+  .container .left .contact-info p {
+    font-size: 13px;
+  }
+  .container .right .profile-content p {
+    font-size: 12px;
+  }
+  .container .right .profile-content .heading ul li {
+    font-size: 11px;
+  }
+
+  .container .right .profile-info .info h5 {
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: 3px;
+  }
+
+  .container .right .profile-info .info p {
+    font-size: 12px;
+  }
+  .container .right .profile-info .info span {
+    font-size: 9px;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  .container {
+    width: 100%;
+  }
+  .container .left {
+    width: 28%;
+  }
+  .container .left .contact-info h3 {
+    font-size: small;
+  }
+  .container .left .profile-img {
+    width: 110px;
+    height: 110px;
+  }
+  .container .left .profile-img img {
+    width: 108px;
+    height: 108px;
+  }
+  .container .left .contact-info ul li {
+    list-style: none;
+    font-size: 10px;
+  }
+  .container .left .contact-info ul li img {
+    width: 12px;
+  }
+  .container .left .contact-info p {
+    font-size: 10px;
+  }
+
+  .container .right h1 {
+    font-size: 23px;
+  }
+  .container .right .profile-content {
+    padding: 0px;
+    padding-left: 10px;
+  }
+  .container .right .profile-content h3 {
+    font-size: medium;
+  }
+  .container .right .profile-title p {
+    font-size: 15px;
+  }
+  .container .right .profile-content p {
+    font-size: 10px;
+  }
+  .container .right .profile-info h3 {
+    font-size: medium;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .container {
+    width: 100%;
+  }
+  .container .left {
+    width: 28%;
+  }
+  .container .left .contact-info {
+    width: 100%;
+  }
+
+  .container .left .profile-img {
+    width: 82px;
+    height: 82px;
+  }
+  .container .left .profile-img img {
+    width: 80px;
+    height: 80px;
+  }
+  .container .left .contact-info h3 {
+    font-size: 12px;
+  }
+  .container .left .contact-info ul li {
+    font-size: 9px;
+  }
+  .container .left .contact-info ul li img {
+    width: 10px;
+  }
+  .container .left .contact-info p {
+    font-size: 9px;
+  }
+
+  .container .right h1 {
+    font-size: 20px;
+  }
+
+  .container .right .profile-title p {
+    font-size: 12px;
+  }
+
+  .container .right .profile-title .line {
+    height: 2px;
+  }
+  .container .right .profile-content h3 {
+    font-size: small;
+  }
+  .container .right .profile-content p {
+    font-size: 9px;
+  }
+
+  .container .right .profile-content .heading ul {
+    width: 97%;
+    margin-left: 5px;
+  }
+  .container .right .profile-content .heading ul li {
+    font-size: 10px;
+  }
+  .container .right .profile-info {
+    margin-left: 0px;
+    padding: 0px;
+    padding-left: 20px;
+  }
+  .container .right .profile-info h3 {
+    font-size: small;
+  }
+  .container .right .profile-info .info {
+    width: 44%;
+    margin-left: 0px;
+  }
+  .container .right .profile-info .info h5 {
+    font-size: 12px;
+  }
+  .container .right .profile-info .info p {
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .container .right .profile-info .info span {
+    font-size: 8px;
+  }
+  #info2 {
+    margin-left: 10px;
+  }
+}
+@media only screen and (max-width: 390px) {
+  .container {
+    width: 100%;
+    height: 900px;
+  }
+  .container .contact-info {
+    height: 95%;
+  }
+  .container .left .profile-img {
+    width: 60px;
+    height: 60px;
+  }
+  .container .left .profile-img img {
+    width: 58px;
+    height: 58px;
+  }
+  .container .left .contact-info h3 {
+    font-size: 10px;
+    margin-top: 5px;
+  }
+  .container .left .contact-info p {
+    font-size: 8px;
+    margin-top: 8px;
+  }
+  .container .left .contact-info ul li {
+    font-size: 8px;
+  }
+  .container .left .contact-info ul li img {
+    padding-right: 5px;
+  }
+
+  .container .right .profile-title {
+    width: fit-content;
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+  .container .right h1 {
+    font-size: 15px;
+  }
+  .container .right .profile-content {
+    padding: 0px;
+    padding-left: 5px;
+    margin-top: 30px;
+  }
+  .container .right .profile-content h3 {
+    font-size: 12px;
+  }
+  .container .right .profile-content p {
+    font-size: 8px;
+  }
+  .container .right .profile-content .heading ul li {
+    font-size: 8px;
+  }
+  .container .right .profile-info {
+    width: 100%;
+    padding-left: 15px;
+  }
+  .container .right .profile-info h3 {
+    font-size: 12px;
+    margin-top: 0px;
+  }
+  .container .right .profile-info .info {
+    margin-top: 10px;
+    width: 45%;
+  }
+  .container .right .profile-info .info h5 {
+    font-size: 10px;
+  }
+  .container .right .profile-info .info p {
+    font-size: 8px;
+  }
+  .container .right .profile-info .info span {
+    font-size: 7px;
+  }
+}
+
+.download {
+  position: fixed;
+  bottom: 40px;
+  right: 25px;
+  cursor: pointer;
+  background-color: #003366;
+  padding: 10px;
+  border-radius: 8px;
+}

@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Roboto;
+  src: url("./fonts/Roboto-Regular.ttf");
+}
+
+.ahad{
+  color:red
+}
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0.1in;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* .container {
+  max-width: 800px;
+  margin: 0 auto;
+} */
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+.about, .personal-info, .education, .experience, .skills, .languages {
+  margin-bottom: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.job-title a {
+  color: #21844f;
+  text-decoration: none;
+}
+
+.job-title a:hover {
+  text-decoration: underline;
+}
+
+.skills ul, .languages ul {
+  margin-left: 20px;
+}
+
+.skills li, .languages li {
+  list-style: disc;
+  margin-bottom: 5px;
+}

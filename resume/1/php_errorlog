@@ -1,0 +1,4 @@
+[28-May-2024 08:00:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/resume/1/index.php on line 12
+[28-May-2024 08:01:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/resume/1/index.php on line 12
+[28-May-2024 08:31:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/customer/www/desired-techs.com/public_html/job-bank/resume/1/index.php on line 46
+[28-May-2024 08:31:44 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ';' or ',' in /home/customer/www/desired-techs.com/public_html/job-bank/resume/1/index.php on line 46

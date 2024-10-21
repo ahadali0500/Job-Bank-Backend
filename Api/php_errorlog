@@ -1,0 +1,770 @@
+[26-Jan-2024 07:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 7
+[26-Jan-2024 08:19:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 37
+[26-Jan-2024 08:21:12 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_stmt could not be converted to string in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 29
+[26-Jan-2024 08:27:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 37
+[26-Jan-2024 09:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 14
+[26-Jan-2024 09:44:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 14
+[26-Jan-2024 09:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 14
+[26-Jan-2024 09:53:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 14
+[26-Jan-2024 10:13:59 UTC] Name: Noor ul Ain, Email: noorulan45@gmail.com, Password: $2y$10$MotLGjLmNVfgeeDtdQjA3.8lY8fvm1MWL1uha7Gw2BmtCJ9ewlzYC, Created At: 2024-01-26 10:13:59
+[26-Jan-2024 10:14:03 UTC] Name: Noor ul Ain, Email: noorulan45@gmail.com, Password: $2y$10$OWu9Q5nH/glAeQEurrtkGOukO9FRzMAT3SMHQQ9hVC1VklPJJV/j2, Created At: 2024-01-26 10:14:03
+[26-Jan-2024 10:15:43 UTC] Name: Noor ul Ain, Email: noorulan45@gmail.com, Password: $2y$10$a1/mB0XfdM7askMB1wcuf.FbZq13kX1kRyh/5MI6cDrvJr6i/V8pm, Created At: 2024-01-26 10:15:43
+[26-Jan-2024 10:15:56 UTC] Name: Noor ul Ain, Email: noorulan45@gmail.com, Password: $2y$10$8V5W8m1sOP/TA0V7QvCxpeHvEs6JsOtWnSmxmP1lINyVPiz8XUt4G, Created At: 2024-01-26 10:15:56
+[26-Jan-2024 10:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 32
+[26-Jan-2024 10:16:47 UTC] Name: Noor ul Ain, Email: noorulan45@gmail.com, Password: $2y$10$pDKDIkqd.h65PGaj5aHaku5H2eHweq24su27xKeOaQckLBAfkduYy, Created At: 2024-01-26 10:16:46
+[29-Jan-2024 11:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 29
+[29-Jan-2024 11:12:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 29
+[29-Jan-2024 11:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 29
+[30-Jan-2024 08:10:21 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 5
+[30-Jan-2024 08:10:54 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 5
+[30-Jan-2024 08:10:57 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 5
+[30-Jan-2024 08:11:13 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 5
+[30-Jan-2024 08:11:16 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 5
+[30-Jan-2024 08:13:02 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 6
+[30-Jan-2024 08:13:37 UTC] PHP Parse error:  syntax error, unexpected '$currentPosition' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 5
+[30-Jan-2024 08:16:36 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 20
+[30-Jan-2024 08:17:29 UTC] PHP Parse error:  syntax error, unexpected ''$fullName'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 20
+[30-Jan-2024 08:18:07 UTC] PHP Parse error:  syntax error, unexpected '$fullName' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 20
+[30-Jan-2024 08:18:43 UTC] PHP Parse error:  syntax error, unexpected ''$educationDetails'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 20
+[30-Jan-2024 08:44:34 UTC] PHP Parse error:  syntax error, unexpected ''$educationDetails'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_cv.php on line 20
+[30-Jan-2024 09:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_cv.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_cv.php on line 7
+[30-Jan-2024 10:23:24 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 12
+[30-Jan-2024 10:24:27 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 12
+[10-Feb-2024 06:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::errorInfo() in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 51
+[10-Feb-2024 06:18:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::errorInfo() in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 51
+[10-Feb-2024 06:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::errorInfo() in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 51
+[10-Feb-2024 06:24:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::error() in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 51
+[12-Feb-2024 07:10:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 57
+[12-Feb-2024 07:16:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 57
+[12-Feb-2024 07:19:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 57
+[12-Feb-2024 07:21:17 UTC] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 58
+[22-Mar-2024 05:05:17 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/user_interview.php on line 10
+[27-Mar-2024 20:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 43
+[27-Mar-2024 20:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 43
+[27-Mar-2024 20:08:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 43
+[27-Mar-2024 20:13:32 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 43
+[27-Mar-2024 20:26:14 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 43
+[27-Mar-2024 20:42:31 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 47
+[27-Mar-2024 20:54:17 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 10 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 47
+[27-Mar-2024 21:02:01 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 8 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 47
+[27-Mar-2024 21:05:38 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 7 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/register.php on line 47
+[28-Mar-2024 10:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/delete_user_article.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/delete_user_article.php on line 12
+[29-Mar-2024 20:35:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php on line 44
+[29-Mar-2024 20:38:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php on line 44
+[29-Mar-2024 20:40:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php on line 44
+[29-Mar-2024 20:41:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php on line 44
+[02-Apr-2024 04:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 9
+[02-Apr-2024 04:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 8
+[02-Apr-2024 04:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 8
+[02-Apr-2024 05:24:02 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 24
+[02-Apr-2024 05:24:24 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 23
+[02-Apr-2024 05:25:11 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 23
+[02-Apr-2024 05:26:20 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 23
+[02-Apr-2024 05:27:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 22
+[02-Apr-2024 05:28:12 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 25
+[02-Apr-2024 05:30:55 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 26
+[02-Apr-2024 05:34:07 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:34:24 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:34:58 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:35:03 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:35:30 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 28
+[02-Apr-2024 05:36:37 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:36:57 UTC] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:37:50 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 26
+[02-Apr-2024 05:41:03 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:41:32 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:41:36 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:41:55 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 27
+[02-Apr-2024 05:42:12 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 28
+[02-Apr-2024 05:42:14 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 28
+[02-Apr-2024 05:42:45 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 9 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_user_packages.php on line 28
+[02-Apr-2024 06:20:57 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 42
+[15-Apr-2024 07:17:18 UTC] PHP Fatal error:  Uncaught Error: Class 'JWT' not found in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 25
+[15-Apr-2024 07:19:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 28 and at least 3 expected in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:199
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php(28): Firebase\JWT\JWT::encode(Array, 'shdghsdbyebhgvd...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 199
+[15-Apr-2024 07:19:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 29 and at least 3 expected in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:199
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php(29): Firebase\JWT\JWT::encode(Array, 'shdghsdbyebhgvd...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 199
+[15-Apr-2024 07:20:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 29 and at least 3 expected in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:199
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php(29): Firebase\JWT\JWT::encode(Array, 'shdghsdbyebhgvd...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 199
+[15-Apr-2024 08:03:38 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:7
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernoder')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 7
+[15-Apr-2024 08:04:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('ernoder', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernoder')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:05:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('ernoder', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernoder')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:06:00 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('ernoder', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernoder')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:08:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('ernoder', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernoder')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:09:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('ernoder', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernoder')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:09:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('ernodesdbjbsjdb...', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('ernodesdbjbsjdb...')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:11:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:35:13 UTC] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 21
+[15-Apr-2024 08:48:10 UTC] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 21
+[15-Apr-2024 08:56:43 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 10 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(10): Firebase\JWT\JWT::decode('gyegerbdfjbjdfd', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(20): decodeJWT('gyegerbdfjbjdfd')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 08:57:52 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:9
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(19): decodeJWT('gyegerbdfjbjdfd')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 9
+[15-Apr-2024 08:58:43 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:9
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(19): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 9
+[15-Apr-2024 09:00:03 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(21): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 09:01:05 UTC] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Firebase\JWT\JWT::decode() must be an instance of stdClass or null, array given, called in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8 and defined in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:96
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', 'shdghsdbyebhgvd...', Array)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(21): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#2 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 96
+[15-Apr-2024 09:04:02 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:8
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(21): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8
+[15-Apr-2024 09:05:05 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:8
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(21): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 8
+[15-Apr-2024 09:11:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 6
+[15-Apr-2024 09:13:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 6
+[15-Apr-2024 09:13:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 6
+[15-Apr-2024 09:13:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Key' not found in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 6
+[15-Apr-2024 09:14:32 UTC] PHP Fatal error:  Uncaught DomainException: Unexpected control character found in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php:524
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php(369): Firebase\JWT\JWT::handleJsonError(3)
+#1 /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php(113): Firebase\JWT\JWT::jsonDecode('{"typ":"Jv\x18\xDDWT"...')
+#2 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(8): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKdhj...', Object(Firebase\JWT\Key))
+#3 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/jwt/vendor/firebase/php-jwt/src/JWT.php on line 524
+[15-Apr-2024 10:04:18 UTC] PHP Parse error:  syntax error, unexpected 'user_detail' (T_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 40
+[15-Apr-2024 10:04:54 UTC] PHP Parse error:  syntax error, unexpected 'user_detail' (T_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 40
+[15-Apr-2024 10:06:19 UTC] PHP Parse error:  syntax error, unexpected '$jwt' (T_VARIABLE), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/signin.php on line 39
+[15-Apr-2024 10:11:32 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 20
+[15-Apr-2024 11:29:45 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 2
+[15-Apr-2024 11:31:29 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user.php(6): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 11
+[15-Apr-2024 11:38:11 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:10
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php(16): decodeJWT('eyJ0eXAiOiJKV1Q...')
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 10
+[15-Apr-2024 11:39:38 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 11
+[15-Apr-2024 11:40:35 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 11
+[15-Apr-2024 11:40:46 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/check_session.php on line 11
+[18-Apr-2024 05:39:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 37
+[18-Apr-2024 05:39:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 37
+[18-Apr-2024 05:40:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 37
+[18-Apr-2024 05:42:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 43
+[18-Apr-2024 05:42:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 43
+[26-Apr-2024 05:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_article.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/save_article.php on line 17
+[26-Apr-2024 08:15:31 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 08:16:13 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 08:20:08 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 08:23:50 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 08:29:38 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 08:31:09 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:01:33 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:01:33 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:01:33 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:02:05 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:02:05 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:02:46 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:02:51 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:03:04 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:03:22 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:03:50 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 29
+[26-Apr-2024 09:05:24 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 09:05:36 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 09:05:51 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 28
+[26-Apr-2024 09:06:52 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 31
+[26-Apr-2024 09:07:41 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 31
+[26-Apr-2024 09:07:59 UTC] PHP Parse error:  syntax error, unexpected 'esult' (T_STRING) in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_articles.php on line 31
+[29-Apr-2024 16:18:29 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 48
+[29-Apr-2024 16:20:02 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 48
+[29-Apr-2024 16:20:39 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 48
+[29-Apr-2024 16:22:16 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 42
+[29-Apr-2024 16:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 32
+[29-Apr-2024 16:27:11 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 48
+[29-Apr-2024 16:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 32
+[29-Apr-2024 16:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 32
+[29-Apr-2024 16:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 34
+[29-Apr-2024 16:47:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 62
+[29-Apr-2024 16:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/recover.php on line 34
+[06-May-2024 17:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_resume_templates.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_resume_templates.php on line 12
+[06-May-2024 17:43:33 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_resume_templates.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/fetch_resume_templates.php on line 12
+[10-May-2024 07:52:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:53:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:53:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:53:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:55:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:56:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:57:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:57:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 67
+[10-May-2024 07:57:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 68
+[10-May-2024 07:58:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 68
+[10-May-2024 07:58:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 68
+[10-May-2024 08:09:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/desired-techs.com/public_html/job-bank/Api/create_cv.php on line 46
+[14-May-2024 04:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/getuser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/getuser.php on line 11
+[14-May-2024 04:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/getuser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/getuser.php on line 11
+[15-May-2024 12:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 50
+[15-May-2024 12:31:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 50
+[15-May-2024 12:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 50
+[15-May-2024 15:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 50
+[15-May-2024 16:02:36 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 50
+[15-May-2024 16:25:48 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 51
+[15-May-2024 16:31:51 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 92
+[15-May-2024 16:35:09 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 92
+[15-May-2024 16:40:42 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 92
+[15-May-2024 16:42:02 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 51
+[15-May-2024 16:46:57 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 4 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/verify.php on line 120
+[21-May-2024 11:24:12 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user_package.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/update_user_package.php on line 55
+[21-May-2024 12:17:05 UTC] Failed to update user_history: 
+[21-May-2024 12:20:45 UTC] Failed to update user_history: 
+[21-May-2024 12:21:31 UTC] Failed to update user_history: 
+[22-May-2024 07:34:27 UTC] No changes in the data or failed to update user_packages: 
+[22-May-2024 07:35:28 UTC] No changes in the data or failed to update user_packages: 
+[22-May-2024 08:16:34 UTC] PHP Fatal error:  Uncaught Exception: Failed to update user_history:  in /home/customer/www/desired-techs.com/public_html/job-bank/Api/manage_package.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/manage_package.php on line 85
+[22-May-2024 08:20:19 UTC] PHP Fatal error:  Uncaught Exception: Failed to update user_history:  in /home/customer/www/desired-techs.com/public_html/job-bank/Api/manage_package.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/manage_package.php on line 85
+[22-May-2024 08:43:48 UTC] Failed to update user_history: 
+[22-May-2024 08:43:49 UTC] Failed to update user_history: 
+[22-May-2024 09:14:38 UTC] No changes in the data or failed to update user_packages: 
+[22-May-2024 09:14:39 UTC] No changes in the data or failed to update user_packages: 
+[22-May-2024 09:20:48 UTC] No changes in the data or failed to update user_packages: 
+[22-May-2024 09:20:48 UTC] No changes in the data or failed to update user_packages: 
+[22-May-2024 09:26:00 UTC] No changes in the data or failed to update user_packages: 
+[09-Jul-2024 09:51:04 UTC] Failed to update user_history: 
+[09-Jul-2024 09:52:25 UTC] No changes in the data or failed to update user_packages: 
+[18-Aug-2024 06:52:44 CST6CDT] Failed to update user_history: 
+[18-Aug-2024 23:46:01 CST6CDT] No changes in the data or failed to update user_packages: 
+[18-Aug-2024 23:46:19 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:23 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:26 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:26 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:26 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:27 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:27 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:36 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:40 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:41 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:46 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:46 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:46 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:46 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:47 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:47 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:47 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:52 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:53 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:46:53 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:48:03 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:48:07 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:48:07 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:48:07 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:48:19 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:48:19 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:49:04 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:49:05 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:49:05 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:49:08 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[18-Aug-2024 23:49:08 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:45 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:53 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:53 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:53 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:53 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:54 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[19-Aug-2024 00:09:56 CST6CDT] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php:11
+Stack trace:
+#0 /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php(11): mysqli_stmt->bind_param('i', NULL)
+#1 {main}
+  thrown in /home/customer/www/desired-techs.com/public_html/job-bank/Api/keys.php on line 11
+[20-Sep-2024 05:26:52 CST6CDT] Failed to update user_history: 
